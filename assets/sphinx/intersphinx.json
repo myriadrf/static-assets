@@ -1,0 +1,34 @@
+{
+    "internal": {
+        "quickstart": "quick-start",
+        "lms8comp": "lms8001-companion",
+        "psbrpcm": "limepsb-rpcm",
+        "sdrx3": "limesdr-x3",
+        "fea": "limefea",
+        "sdrxtrx": "limesdr-xtrx",
+        "sdrmini2": "limesdr-mini-2-0",
+        "rfe8001p": "limerfe-8001p",
+        "rfe": "limerfe",
+        "sdrmini": "limesdr-mini",
+        "sdrusb": "limesdr-usb",
+        "sdrpcie": "limesdr-pcie",
+        "sdrgw": "limesdr-gw",
+        "ppsdo": "limeppsdo",
+        "dfb": "limedfb",
+        "suiteng": "limesuiteng",
+        "suite": "limesuite",
+        "dsp": "limedsp",
+        "lms64c": "lms64c",
+        "complibs": "component-libraries",
+        "scratchradio": "scratchradio",
+        "encdesigns": "enclosure-designs",
+        "netmicro": "limenet-micro",
+        "sdrqpcie": "limesdr-qpcie",
+        "handbook": "handbook",
+        "vault": "vault"
+    },
+    "external": {
+        "sphinx": "https://www.sphinx-doc.org/en/master/",
+        "lc": "https://librecellular.org/"
+    }
+}
